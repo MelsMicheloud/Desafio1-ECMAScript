@@ -59,3 +59,5 @@ productoNuevo.addProduct("producto prueba5", "Este es un producto prueba5", 204,
 productoNuevo.addProduct("producto prueba4", "Este es un producto prueba4", 203, "Sin Imagen4", "abc123")
 
 productoNuevo.getProductById(2)
+
+productoNuevo.getProductById(8)
